@@ -1,0 +1,5 @@
+print("输入第一个数:")
+num1=input()
+print("\n输入第二个数:")
+num2=input()
+print("\n两个数字之和为:",int(num1)+int(num2))
